@@ -1,5 +1,5 @@
 ==Problem Description==
-
+ 
 The goal of this challenge is to implement a solution for checking if credit
 card numbers are valid. There are two parts to this challenge.
 
